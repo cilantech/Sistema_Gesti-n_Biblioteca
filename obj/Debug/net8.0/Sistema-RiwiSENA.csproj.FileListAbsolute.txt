@@ -1,0 +1,15 @@
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\bin\Debug\net8.0\Sistema-RiwiSENA.exe
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\bin\Debug\net8.0\Sistema-RiwiSENA.deps.json
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\bin\Debug\net8.0\Sistema-RiwiSENA.runtimeconfig.json
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\bin\Debug\net8.0\Sistema-RiwiSENA.dll
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\bin\Debug\net8.0\Sistema-RiwiSENA.pdb
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.AssemblyInfoInputs.cache
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.AssemblyInfo.cs
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.csproj.CoreCompileInputs.cache
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.sourcelink.json
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.dll
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\refint\Sistema-RiwiSENA.dll
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.pdb
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\Sistema-RiwiSENA.genruntimeconfig.cache
+C:\CODE\c#\Sena-Riwi\Sistema_Gesti-n_Biblioteca\obj\Debug\net8.0\ref\Sistema-RiwiSENA.dll
